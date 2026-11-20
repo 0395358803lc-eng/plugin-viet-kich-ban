@@ -1,0 +1,42 @@
+{
+  "interface": {
+    "displayName": "Vi\u1ebft-L\u00e1ch",
+    "shortDescription": "S\u00e1ng t\u00e1c v\u00e0 bi\u00ean t\u1eadp truy\u1ec7n",
+    "longDescription": "Vi\u1ebft k\u1ecbch b\u1ea3n ho\u00e0n ch\u1ec9nh b\u1eb1ng 4 t\u1ea7ng InkOS+Oh Story \u2192 Shuohao+Drama \u2192 Humanizer+AI Copywriter \u2192 QC. Ch\u1ebf \u0111\u1ed9 m\u00e1y ch\u1ee7: x\u00e1c minh m\u00e1y v\u00e0 th\u01b0 m\u1ee5c do ng\u01b0\u1eddi d\u00f9ng ch\u1ecdn, ki\u1ec3m tra/t\u1ea1o VIET_LACH_WORKSPACE; n\u1ebfu c\u00f3 d\u1eef li\u1ec7u c\u0169, \u0111\u1ecdc nh\u1eadn di\u1ec7n \u1edf ch\u1ebf \u0111\u1ed9 ch\u1ec9 \u0111\u1ecdc; b\u00e1o c\u00e1o, h\u1ecfi y\u00eau c\u1ea7u m\u1edbi tr\u01b0\u1edbc khi vi\u1ebft; cu\u1ed1i c\u00f9ng l\u01b0u v\u00e0 \u0111\u1ecdc l\u1ea1i 7 t\u1ec7p khi c\u00f3 c\u00f4ng c\u1ee5 \u0111\u01b0\u1ee3c ph\u00e9p. Kh\u00f4ng c\u1ea7n c\u00e0i AI c\u1ee5c b\u1ed9.",
+    "developerName": "Ch\u1ee7 s\u1edf h\u1eefu plugin",
+    "category": "Productivity",
+    "capabilities": [
+      "Interactive"
+    ],
+    "defaultPrompt": [
+      "T\u00f4i mu\u1ed1n vi\u1ebft m\u1ed9t c\u00e2u chuy\u1ec7n m\u1edbi. H\u00e3y kh\u1edfi t\u1ea1o d\u1ef1 \u00e1n v\u00e0 \u0111\u1ec1 xu\u1ea5t \u00fd t\u01b0\u1edfng, d\u00e0n \u00fd tr\u01b0\u1edbc khi vi\u1ebft.",
+      "H\u00e3y nh\u1eadp b\u1ea3n th\u1ea3o t\u00f4i cung c\u1ea5p, d\u1ef1ng l\u1ea1i nh\u00e2n v\u1eadt, timeline v\u00e0 c\u00e1c t\u00ecnh ti\u1ebft \u0111\u1ec3 ti\u1ebfp t\u1ee5c vi\u1ebft.",
+      "H\u00e3y ki\u1ec3m tra m\u1ed9t ch\u01b0\u01a1ng truy\u1ec7n: logic, nh\u1ecbp k\u1ec3, gi\u1ecdng v\u0103n v\u00e0 c\u00e1c \u0111i\u1ec3m c\u1ea7n s\u1eeda."
+    ]
+  },
+  "name": "viet-lach",
+  "version": "1.3.0",
+  "description": "Vi\u1ebft-L\u00e1ch: 45 k\u1ef9 n\u0103ng; khi nh\u1eadn th\u01b0 m\u1ee5c m\u00e1y ch\u1ee7 ph\u1ea3i nh\u1eadn di\u1ec7n VIET_LACH_WORKSPACE (t\u1ea1o n\u1ebfu thi\u1ebfu ho\u1eb7c ki\u1ec3m tra d\u1eef li\u1ec7u c\u0169 n\u1ebfu c\u00f3), h\u1ecfi y\u00eau c\u1ea7u sau b\u01b0\u1edbc n\u00e0y, r\u1ed3i m\u1edbi ch\u1ea1y quy tr\u00ecnh 4 t\u1ea7ng v\u00e0 l\u01b0u/\u0111\u1ecdc l\u1ea1i 7 t\u1ec7p.",
+  "author": {
+    "name": "Ch\u1ee7 s\u1edf h\u1eefu plugin"
+  },
+  "keywords": [
+    "viet-lach",
+    "writing",
+    "novel",
+    "story",
+    "screenplay",
+    "editing",
+    "story-continuity",
+    "epub",
+    "webnovel",
+    "film-script",
+    "animation",
+    "script-pipeline",
+    "sound-design",
+    "remote-workspace",
+    "remote-desktop",
+    "script-delivery"
+  ],
+  "skills": "./skills"
+}
